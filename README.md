@@ -13,7 +13,7 @@ Fonte: [JSONPlaceholder](https://jsonplaceholder.typicode.com)
 
 ### Links de Deploy
 - Netlify (ID): `https://68bf1b2cc1236e3e23fce416--illustrious-starlight-52bcce.netlify.app/`
-- Vercel (NOME): -EM DESENVOLVIMENTO-
+- Vercel (NOME): `https://deploy-dashboards.vercel.app/`
 
 ### Como rodar localmente
 ```bash
