@@ -1,4 +1,4 @@
-# Projeto: Visualização de TODOS com JSONPlaceholder
+# Projeto: Visualização de TODOS (tarefas) com JSONPlaceholder
 
 ### Tecnologias
 - React
